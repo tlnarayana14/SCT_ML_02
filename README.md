@@ -3,7 +3,7 @@ Student Marks Clustering using K-Means
 This project applies K-Means clustering to group students based on their performance in two subjects. It uses data preprocessing, clustering, visualization, and evaluation metrics to identify High Performers and Low Performers.
  
  
- 
+
  📌 Features
 ✅ Data loading and preprocessing using pandas and StandardScaler
 
